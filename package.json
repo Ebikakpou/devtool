@@ -4,19 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js",
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ebikakpou/devtool.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Ebikakpou/devtool/issues"
-  },
-  "homepage": "git+https://github.com/Ebikakpou/devtool#readme"
+  "license": "ISC"
 }
