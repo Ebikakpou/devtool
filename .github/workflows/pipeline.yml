@@ -1,9 +1,8 @@
-name: "ci pipeline "
+name: "pipeline.yml"
 
 on:
   push:
-  branches:
-    -main
+  branches: [main]
 
 jobs:
   build:
