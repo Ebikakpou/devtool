@@ -1,12 +1,17 @@
 {
   "name": "devtool",
   "version": "1.0.0",
-  "description": "",
+  "description": "A utility for streamlining development workflows",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "vitest" 
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Ebika Kpou",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vitest": "latest"
+  }
 }
