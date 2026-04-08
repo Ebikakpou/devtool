@@ -1,4 +1,4 @@
-name: "pipeline.yml"
+name: "pipeline"
 
 on:
   push:
